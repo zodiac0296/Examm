@@ -1,0 +1,11 @@
+<resources>
+    <string name="RecyclerNews" translatable="false">RecyclerNews</string>
+    <string name="political" translatable="false">Политика</string>
+    <string name="sports" translatable="false">Спорт</string>
+    <string name="culture" translatable="false">Культура</string>
+    <string name="business" translatable="false">Бизнес</string>
+    <string name="categories"></string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
